@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-23T20:53:30 IST" name="Default suite" finished-at="2024-08-23T20:53:52 IST" duration-ms="21603">
+    <groups>
+    </groups>
+    <test started-at="2024-08-23T20:53:30 IST" name="Default test" finished-at="2024-08-23T20:53:52 IST" duration-ms="21603">
+      <class name="Second_Project_OrengeHRM.Second_Project_OrengeHRM.EmpActionTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Second_Project_OrengeHRM.Second_Project_OrengeHRM.EmpActionTest@496bc455]" started-at="2024-08-23T20:53:30 IST" name="setup" finished-at="2024-08-23T20:53:34 IST" duration-ms="3849" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:1, instance:Second_Project_OrengeHRM.Second_Project_OrengeHRM.EmpActionTest@496bc455]" started-at="2024-08-23T20:53:34 IST" name="loginTest" finished-at="2024-08-23T20:53:36 IST" duration-ms="1582" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="testAddEmp()[pri:2, instance:Second_Project_OrengeHRM.Second_Project_OrengeHRM.EmpActionTest@496bc455]" started-at="2024-08-23T20:53:36 IST" name="testAddEmp" finished-at="2024-08-23T20:53:44 IST" duration-ms="8255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddEmp -->
+        <test-method signature="testDeleteEmpRecord()[pri:3, instance:Second_Project_OrengeHRM.Second_Project_OrengeHRM.EmpActionTest@496bc455]" started-at="2024-08-23T20:53:44 IST" name="testDeleteEmpRecord" finished-at="2024-08-23T20:53:50 IST" duration-ms="6377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteEmpRecord -->
+        <test-method signature="testSerachEmp()[pri:3, instance:Second_Project_OrengeHRM.Second_Project_OrengeHRM.EmpActionTest@496bc455]" started-at="2024-08-23T20:53:50 IST" name="testSerachEmp" finished-at="2024-08-23T20:53:51 IST" duration-ms="1270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSerachEmp -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Second_Project_OrengeHRM.Second_Project_OrengeHRM.EmpActionTest@496bc455]" started-at="2024-08-23T20:53:51 IST" name="tearDown" finished-at="2024-08-23T20:53:52 IST" duration-ms="228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Second_Project_OrengeHRM.Second_Project_OrengeHRM.EmpActionTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
